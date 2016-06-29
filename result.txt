@@ -1,0 +1,888 @@
+TRAILERS
+  {
+    "number" => "8004105", "manufacturer" => "Goldhofer", "type" => "THP SL 3", "first registration" => "neu, n.n.zugel.", "unloaden weight" => "10200 kg", "laden weight" => "49.200-102.000 kg", "tires" => "215 / 75 R 17,5", 
+  }
+
+  {
+    "number" => "8004247", "manufacturer" => "Goldhofer", "type" => "STU 3 100/30", "year" => "1995", "unloaden weight" => "25000 kg", "laden weight" => "125000 kg", "tires" => "10,00 R 15", 
+  }
+
+  {
+    "number" => "8004495", "manufacturer" => "Goldhofer", "type" => "THP / SL 2", "first registration" => "neu, n.n.zugel./new", "wheelbase" => "750, 1500 mm", "unloaden weight" => "6900 kg", "laden weight" => "32800-68000 kg", "tires" => "215 / 75 R 17,5", 
+  }
+
+  {
+    "number" => "8004500", "manufacturer" => "Goldhofer", "type" => "THP-SL 5", "first registration" => "neu, n.n.zugel. new / nuevo", "unloaden weight" => "16600 kg", "laden weight" => "82000-170000 kg", "tires" => "215 / 75 R 17,5", 
+  }
+
+  {
+    "number" => "8004573", "manufacturer" => "Nooteboom", "type" => "OSDS-48-03 V", "first registration" => "01.10.2010", "unloaden weight" => "10260 kg", "laden weight" => "48000 kg", "tires" => "245 / 70 R 17,5", 
+  }
+
+  {
+    "number" => "8004588", "manufacturer" => "Nooteboom", "type" => "OSDS-48-03 V", "first registration" => "01.10.2010", "unloaden weight" => "10800 kg", "laden weight" => "48000 kg", "tires" => "245 / 70 R 17,5", 
+  }
+
+  {
+    "number" => "8004734", "manufacturer" => "Goldhofer", "type" => "Baggerbruecke", "first registration" => "neu, n.n.zugel.", 
+  }
+
+  {
+    "number" => "8004992", "manufacturer" => "Goldhofer", "type" => "STZ-VL 3-34/80 A", "first registration" => "10.09.1996", "unloaden weight" => "16490 kg", "laden weight" => "55000 kg", "tires" => "235 / 75 R 17,5", 
+  }
+
+  {
+    "number" => "8005061", "manufacturer" => "Scheuerle", "type" => "EURO COMBI 3 + 4", "first registration" => "1985.", "unloaden weight" => "35000 kg", "laden weight" => "109.000 kg 25 t. SL 12 t. AL137.000 kg 25 t. SL 16 t. AL kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005100", "manufacturer" => "Goldhofer", "type" => "THP SL 6", "first registration" => "neu", 
+  }
+
+  {
+    "number" => "8005101", "manufacturer" => "Goldhofer", "type" => "THP SL 4", "year" => "new", 
+  }
+
+  {
+    "number" => "8005147", "manufacturer" => "Goldhofer", "type" => "SKPH 4 40/80", "first registration" => "24.01.1995", "unloaden weight" => "18180 kg", "laden weight" => "62000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005170", "manufacturer" => "Goldhofer", "type" => "TZ-TL4-28/80", "first registration" => "14.08.1996", "unloaden weight" => "12600 kg", "laden weight" => "40000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005181", "manufacturer" => "Goldhofer", "type" => "STZ-TLS 4 40/80", "first registration" => "09.01.1997", "wheelbase" => "9760+1310+1310+1310 mm", "unloaden weight" => "16800 kg", "laden weight" => "61800 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005189", "manufacturer" => "Nooteboom", "type" => "MCO 48-03", "first registration" => "28.11.1997", "unloaden weight" => "13000 kg", "laden weight" => "48000 kg", 
+  }
+
+  {
+    "number" => "8005190", "manufacturer" => "Goldhofer", "type" => "STZ-L3-35/80AAF1", "first registration" => "19.03.1997", "unloaden weight" => "14100 kg", "laden weight" => "48000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005209", "manufacturer" => "Goldhofer", "type" => "THP-ET-Mulde 3 + 5", "first registration" => "04.09.2000", "wheelbase" => "1500 mm", "unloaden weight" => "ca. 40.000 kg kg", "laden weight" => "120.000 kg bei 12 t. AL 24 t. SL190.000 kg bei 22 t. AL 30 t SL kg", "Emission" => "-", "tires" => "285/70 R19,5", 
+  }
+
+  {
+    "number" => "8005223", "manufacturer" => "Goldhofer", "type" => "THP-ET-Mulde 2+4", "first registration" => "ET 4 WGOTHPE49Y0024453ET 2 WGOSTHP23Y0024457Baggerbett 24453-3003.07.2000", "unloaden weight" => "35000 kg kg", "laden weight" => "95000 kg bei 12 t.AL 23 t SL150000 kg bei 20 t.AL 30 t.SL kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005228", "manufacturer" => "Glogger", "type" => "SLD 30", "first registration" => "24.03.1980", "unloaden weight" => "6600 kg", "laden weight" => "30000 kg", "tires" => "12 R 22,5", 
+  }
+
+  {
+    "number" => "8005313", "manufacturer" => "Goldhofer", "type" => "THP-ST 5", "first registration" => "29.05.1996", "wheelbase" => "1500+1500+1500+1500 mm", "unloaden weight" => "17000 kg", "laden weight" => "60000 kg bei 12 t Achslast180000 kg bei 36 t Achslast kg", "Emission" => "EURO III", "tires" => "215/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005324", "manufacturer" => "Goldhofer", "type" => "STZ-TL2-29/80", "first registration" => "26.05.2005", "unloaden weight" => "10000 kg", "laden weight" => "38750 kg", "tires" => "245/70R17,4144/144F", 
+  }
+
+  {
+    "number" => "8005340", "manufacturer" => "Goldhofer", "type" => "THP-ET Mulde 2+3+4 Baggerbett", "first registration" => "21.01.1991 ET 2 u. ET310.11.1992 ET 4", "unloaden weight" => "39400 kg kg", "laden weight" => "132 t.bei24 t.SL 12 t. AL237t bei 30t SL 23t AL kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005386", "manufacturer" => "Scheuerle", "type" => "PWK 45.5", "first registration" => "28.09.1987", "laden weight" => "55000 kg", "tires" => "9,5 R 17,5", 
+  }
+
+  {
+    "number" => "8005424", "manufacturer" => "Goldhofer", "type" => "STZ-VL 3-37/80 A", "first registration" => "14.09.1993", "unloaden weight" => "17320 kg", "laden weight" => "54000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005456", "manufacturer" => "Scheuerle", "type" => "PU 2539", "year" => "1993", "unloaden weight" => "7200 kg", "laden weight" => "30000 kg", "tires" => "235/75R17.5 141/140J", 
+  }
+
+  {
+    "number" => "8005534", "manufacturer" => "Cometto", "type" => "X44AHC/2530", "first registration" => "09.07.2002", "wheelbase" => "1360 mm", "unloaden weight" => "16000 kg", "laden weight" => "65000- 73000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005549", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 2", "first registration" => "23.04.2002", "wheelbase" => "1500 mm", "unloaden weight" => "6000 kg", "laden weight" => "24000-46000 kg", "tires" => "205/65 R 17,5", 
+  }
+
+  {
+    "number" => "8005561", "manufacturer" => "Scheuerle", "type" => "STGKV 702-3AP", "year" => "05/2000", "laden weight" => "24000 kg", 
+  }
+
+  {
+    "number" => "8005598", "manufacturer" => "Goldhofer", "type" => "STN-L3-36/80", "first registration" => "17.04.1997", "unloaden weight" => "10250 KG kg", "laden weight" => "47500 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005600", "manufacturer" => "Goldhofer", "type" => "STZ-L4-43/80", "first registration" => "13.07.1995", "unloaden weight" => "14300 kg", "laden weight" => "57500 kg", "tires" => "245/70 R 17,5", 
+  }
+
+  {
+    "number" => "8005619", "manufacturer" => "Goldhofer", "type" => "THP-L 4+6 vesselbridge/excavatordeck", "first registration" => "13.09.2004", "unloaden weight" => "49.500 kg kg", "laden weight" => "144 t bei 12 t AL 24 t SL kg", "tires" => "215/", 
+  }
+
+  {
+    "number" => "8005625", "manufacturer" => "Goldhofer", "type" => "THP -LTSO 2", "first registration" => "1998", "wheelbase" => "1500 mm", "unloaden weight" => "6000 kg kg", "laden weight" => "24000 / 46000 kg", "tires" => "205/65 R 17,5", 
+  }
+
+  {
+    "number" => "8005626", "manufacturer" => "Goldhofer", "type" => "THP- LTSO 4", "first registration" => "1998", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "11.400 kg kg", "laden weight" => "48.000-92.000 kg kg", "tires" => "205/65 R 17,5", 
+  }
+
+  {
+    "number" => "8005632", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 4", "first registration" => "10.07.2002", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "11400 kg", "laden weight" => "48000/92000 kg kg", "tires" => "205/65R17,5 127/125J", 
+  }
+
+  {
+    "number" => "8005633", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 4", "first registration" => "10.07.2002", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "11.400 kg kg", "laden weight" => "48000/92000 kg", "tires" => "205/65R17,5", 
+  }
+
+  {
+    "number" => "8005634", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 6", "first registration" => "10.07.2002", "wheelbase" => "1500+1500+1500+1500+1500 mm", "unloaden weight" => "17100 kg", "laden weight" => "72000/138000 kg", "tires" => "206/60R17,5 127/125J", 
+  }
+
+  {
+    "number" => "8005641", "manufacturer" => "Goldhofer", "type" => "THP-ST6 Split", "first registration" => "02.02.2005", "wheelbase" => "1500+1500+1500+15000 mm", "unloaden weight" => "21000 kg", "laden weight" => "72000/216000 kg", "tires" => "215/75R17,5 131/130J", 
+  }
+
+  {
+    "number" => "8005647", "manufacturer" => "Goldhofer", "type" => "THP-ST3", "first registration" => "18.01.2002", "wheelbase" => "1500+1500 mm", "unloaden weight" => "10400 kg", "laden weight" => "36000/108000 kg", "tires" => "215/75R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005648", "manufacturer" => "Goldhofer", "type" => "THP-LTSO3", "first registration" => "07.05.2001", "wheelbase" => "1500+1500 mm", "unloaden weight" => "8500 kg", "laden weight" => "36000/69000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005649", "manufacturer" => "Goldhofer", "type" => "THP-LTSO3", "first registration" => "07.05.2001", "wheelbase" => "1500+1500 mm", "unloaden weight" => "8500 kg", "laden weight" => "36000/69000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005650", "manufacturer" => "Goldhofer", "type" => "THP-ST 4", "first registration" => "12.01.2004", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "13800 kg", "laden weight" => "48000 /144000 kg kg", "tires" => "215/75R17.5-/122J", 
+  }
+
+  {
+    "number" => "8005651", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 3", "first registration" => "16.08.2000", "wheelbase" => "1500+1500 mm", "unloaden weight" => "8500 kg", "laden weight" => "36000/69000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005652", "manufacturer" => "Goldhofer", "type" => "THP- ST 3", "first registration" => "18.01.2002", "wheelbase" => "1500+1500 mm", "unloaden weight" => "10500 kg", "laden weight" => "36000/108000 kg", "tires" => "215/75R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005653", "manufacturer" => "Goldhofer", "type" => "STHP-ST", "first registration" => "1998", "unloaden weight" => "5.500 kg", "laden weight" => "30.000 kg", 
+  }
+
+  {
+    "number" => "8005656", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 2", "first registration" => "07.05.2001", "wheelbase" => "1500 mm", "unloaden weight" => "6000 kg", "laden weight" => "24000/ 46000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005657", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 2", "first registration" => "07.05.2001", "wheelbase" => "1500 mm", "unloaden weight" => "6000 kg", "laden weight" => "24000/46000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005658", "manufacturer" => "Goldhofer", "type" => "THP-ET4+4 8-achsig", "first registration" => "04.05.1993", 
+  }
+
+  {
+    "number" => "8005659", "manufacturer" => "Goldhofer", "type" => "Drehschemel 2_100 to", 
+  }
+
+  {
+    "number" => "8005660", "manufacturer" => "Greiner", "type" => "150 t. Flachbett", "year" => "2008", 
+  }
+
+  {
+    "number" => "8005666", "manufacturer" => "Goldhofer", "type" => "TU 4 expert 4875", "year" => "2015", "wheelbase" => "5.225 mm / 1.310 mm mm", "laden weight" => "48000 kg", "tires" => "Zwillingsbereifung Continental 245/70R 17,5 143/141 J ( 146/146F)", 
+  }
+
+  {
+    "number" => "8005683", "manufacturer" => "Goldhofer", "type" => "STHP-ST", "first registration" => "1998", "unloaden weight" => "5.500 kg", "laden weight" => "30.000 kg", 
+  }
+
+  {
+    "number" => "8005688", "manufacturer" => "Goldhofer", "type" => "THP-ET 4", "first registration" => "27.02.2003", "wheelbase" => "1400+1400+1400 mm", "unloaden weight" => "10.900 kg", "laden weight" => "48000 bei 80 km/h92000 bei 5 km/h kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005689", "manufacturer" => "Goldhofer", "type" => "THP-ET 4", "first registration" => "13.11.1989", "wheelbase" => "1400+1400+1400 mm", "unloaden weight" => "10.900 kg", "laden weight" => "48000 kg bei 80 km/h92000 kg bei 5 km/h kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005691", "manufacturer" => "Goldhofer", "type" => "THP-SL4", 
+  }
+
+  {
+    "number" => "8005692", "manufacturer" => "Goldhofer", "type" => "Zwischentisch THP-L", "first registration" => "2003", 
+  }
+
+  {
+    "number" => "8005693", "manufacturer" => "Goldhofer", "type" => "Adapter THP-ET CC 2400", 
+  }
+
+  {
+    "number" => "8005697", "manufacturer" => "Mu00fcller-Mitteltal", "type" => "T4 RM 40,0", "year" => "2015", "laden weight" => "40000 kg", "tires" => "235/75R17.5 16-fach", 
+  }
+
+  {
+    "number" => "8005698", "manufacturer" => "Mu00fcller-Mitteltal", "type" => "ETUE-TA-R 14,4 (13,5)", "year" => "2015", "laden weight" => "14400 kg", "tires" => "Zwillingsbereifung235/75R17.5 8-fach", 
+  }
+
+  {
+    "number" => "8005704", "manufacturer" => "Goldhofer", "type" => "THP-ET 4+4", "first registration" => "27.02.2003", "wheelbase" => "1400+1400+1400 mm", "unloaden weight" => "10.900 kg", "laden weight" => "48000 bei 80 km/h92000 bei 5 km/h kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005718", "manufacturer" => "Goldhofer", "type" => "THP-UT 3+5 Kesselbett", "first registration" => "05.12.2008", "unloaden weight" => "48.300 kg kg", "laden weight" => "120 t. bei 24 t-SL 12 t- AL230 t. bei 30 t.-SL 25 t. -AL kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005719", "manufacturer" => "Goldhofer", "type" => "THP-UT 2+2+4 Baggerbett", "first registration" => "17.07.2003", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005720", "manufacturer" => "Goldhofer", "type" => "THP-UT 2 3000", "first registration" => "17.07.2003", "wheelbase" => "1500 mm", "unloaden weight" => "6150 kg kg", "laden weight" => "24000 kg bei 80 km/h50000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005722", "manufacturer" => "Goldhofer", "type" => "THP-UT 2 3000", "first registration" => "06.01.2004", "wheelbase" => "1500 mm", "unloaden weight" => "6150 kg", "laden weight" => "24000 kg bei 80 km/h50000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005723", "manufacturer" => "Goldhofer", "type" => "THP-UT 3 3000", "first registration" => "17.07.2003", "wheelbase" => "1500+1500 mm", "unloaden weight" => "8500 kg", "laden weight" => "36000 kg bei 80 km/h75000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005726", "manufacturer" => "Goldhofer", "type" => "THP-UT 4 3000", "first registration" => "17.07.2003", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "11.400 kg", "laden weight" => "48000 kg bei 80 km/h100.000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005728", "manufacturer" => "Goldhofer", "type" => "THP-UT 5 3000", "first registration" => "05.12.2008", "wheelbase" => "1500+1500+1500+1500 mm", "unloaden weight" => "14000 kg kg", "laden weight" => "60.000 kg bei 80 km/h125.000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005730", "manufacturer" => "Goldhofer", "type" => "STHP Universalschwanenhals THP-UT/ST/SL", "first registration" => "17.07.2003", "unloaden weight" => "5500 kg", "laden weight" => "35000 kg", 
+  }
+
+  {
+    "number" => "8005731", "manufacturer" => "Goldhofer", "type" => "STHP-Universalschwanenhals THP-UT/ST/SL", "first registration" => "17.07.2003", "unloaden weight" => "5500 kg", "laden weight" => "35000 kg", 
+  }
+
+  {
+    "number" => "8005733", "manufacturer" => "Goldhofer", "type" => "THP-UT Baggerbruecke 100 t starr", "first registration" => "2004", "unloaden weight" => "7000 kg", "laden weight" => "100.000 kg", 
+  }
+
+  {
+    "number" => "8005738", "manufacturer" => "Goldhofer", "type" => "Kesselbett 100 to THP-UT", "first registration" => "2008", "unloaden weight" => "19900 kg", "laden weight" => "100000 kg kg", 
+  }
+
+  {
+    "number" => "8005744", "manufacturer" => "Doll", "type" => "Doll Vario", "year" => "2005", "first registration" => "22.11.2007", 
+  }
+
+  {
+    "number" => "8005762", "manufacturer" => "Goldhofer", "type" => "STZ-L5-52-80", "first registration" => "04.05.2000", "unloaden weight" => "15700 kg", "laden weight" => "68000 kg", "tires" => "235/75 R17,5 141/14OJ", 
+  }
+
+  {
+    "number" => "8005764", "manufacturer" => "Goldhofer", "type" => "STN-L3-36/80", "first registration" => "09.04.1998", "unloaden weight" => "10250 kg", "laden weight" => "47500 kg", "tires" => "235/75 R 22,5", 
+  }
+
+  {
+    "number" => "8005766", "manufacturer" => "Max Trailer", "type" => "MAX100", "first registration" => "2016", "unloaden weight" => "10664 kg", "laden weight" => "58000 kg", 
+  }
+
+  {
+    "number" => "8005769", "manufacturer" => "Mueller Mitteltal", "type" => "ETUE-TA-R 14,4", "first registration" => "neu", "tires" => "235/75 R 17.5", 
+  }
+
+  {
+    "number" => "8005778", "manufacturer" => "Nooteboom", "type" => "OVB-42-03V", "first registration" => "25.07.2005", "unloaden weight" => "10960 kg", "laden weight" => "42000 kg", "tires" => "385/65R22,5 160/158L", 
+  }
+
+  {
+    "number" => "8005779", "manufacturer" => "Greiner", "type" => "Flachbett 250t + Verlaengerungen", "first registration" => "2006", 
+  }
+
+  {
+    "number" => "8005790", "manufacturer" => "Goldhofer", "type" => "TU 4 expert 4875", "year" => "2016", "first registration" => "neu", 
+  }
+
+  {
+    "number" => "8005791", "manufacturer" => "Goldhofer", "type" => "TU 3 expert 3662", "year" => "2016", "first registration" => "neu", 
+  }
+
+  {
+    "number" => "8005792", "manufacturer" => "Goldhofer", "type" => "STZ-THP-L STVH-7 3+4", "year" => "1991", 
+  }
+
+  {
+    "number" => "8005793", "manufacturer" => "Goldhofer", "type" => "TU3 expert 3662", "year" => "2016", "wheelbase" => "4.940 / 1.310 mm mm", "unloaden weight" => "7600 kg", "laden weight" => "36000 kg", "tires" => "Continental, 245/70 R 17.5 143/141 J TL", 
+  }
+
+  {
+    "number" => "8005794", "manufacturer" => "Goldhofer", "type" => "TU 4 expert 4875", "year" => "2016", "first registration" => "neu", "wheelbase" => "1.310 / 5.225 / 1.310 mm mm", "unloaden weight" => "9100 kg", "laden weight" => "48000 kg", "tires" => "Continental ,245/70 R 17.5 143/141 J TL (146/146 F)", 
+  }
+
+  {
+    "number" => "8005800", "manufacturer" => "Goldhofer", "type" => "THP-SL2", "first registration" => "23.02.2005", "wheelbase" => "1500 mm", "unloaden weight" => "6800 kg", "laden weight" => "24 t. bei 12 t. Achslast72 t. bei 36 t. Achslast kg", "tires" => "215/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005803", "manufacturer" => "Goldhofer", "type" => "STZ L 5 A F2", "first registration" => "2007", "wheelbase" => "1360+1360+1360+1360 mm", "tires" => "245/70 R 17,5", 
+  }
+
+  {
+    "number" => "8005806", "manufacturer" => "Faymonville", "type" => "STN-3AUB", "first registration" => "22.06.2011", "unloaden weight" => "12200 kg", "laden weight" => "48000 kg", "tires" => "235/75R17,5/141J", 
+  }
+
+  {
+    "number" => "8005808", "manufacturer" => "Doll", "type" => "Vario S 3 H", "first registration" => "25.09.2002", "unloaden weight" => "11500 kg", "laden weight" => "48000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005811", "manufacturer" => "Goldhofer", "type" => "TU 4 expert", "first registration" => "11.06.14", "wheelbase" => "1.310 / 5.225 / 1.310 mm mm", "unloaden weight" => "9600 kg", "laden weight" => "40.0000 kg", "tires" => "245/70 R 17,5 R", 
+  }
+
+  {
+    "number" => "8005812", "manufacturer" => "Goldhofer", "type" => "UT LTSO Baggerbett 120 t", 
+  }
+
+  {
+    "number" => "8005814", "manufacturer" => "Goldhofer", "type" => "Tiefbett 250 t", 
+  }
+
+  {
+    "number" => "8005815", "manufacturer" => "Faymonville", "type" => "STBZ 2 V Mega-Z 2 HV", "first registration" => "13.06.2002", "wheelbase" => "1510 mm", "unloaden weight" => "17200 kg", "laden weight" => "49.000 kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005818", "manufacturer" => "Mu00fcller-Mitteltal", "type" => "T40", "first registration" => "13.07.2004", "wheelbase" => "1440+5120+1440 mm", "unloaden weight" => "8850 kg", "laden weight" => "40.000 kg kg", "tires" => "235/75 R 17,5", 
+  }
+
+
+CONSTRUCTION EQUIPMENT
+  {
+    "number" => "8005323", "manufacturer" => "Komatsu", "type" => "PC26 MR-3", "year" => "2000", "km - h" => "330", "hours" => "330 h", 
+  }
+
+  {
+    "number" => "8005469", "manufacturer" => "Kinshofer", "type" => "1 Zwischengreifer 800 mm", 
+  }
+
+  {
+    "number" => "8005470", "manufacturer" => "CAT", "type" => "2 Schild CAT 140 H neu", 
+  }
+
+  {
+    "number" => "8005472", "manufacturer" => "Liebherr", "type" => "4 Zweischalengreifer 600 mm", 
+  }
+
+  {
+    "number" => "8005473", "manufacturer" => "Kinshofer", "type" => "5 Zweischalengreifer 600 mm", 
+  }
+
+  {
+    "number" => "8005475", "manufacturer" => "CAT", "type" => "7 Schnellwechsler CAT 322 BL", 
+  }
+
+  {
+    "number" => "8005476", "manufacturer" => "Liebherr", "type" => "8 Zweischalengreifer 800 mm", 
+  }
+
+  {
+    "number" => "8005478", "manufacturer" => "Kinshofer", "type" => "10 Zweischalengreifer 650 mm Schnittbreite LKW", "year" => "2000", 
+  }
+
+  {
+    "number" => "8005481", "manufacturer" => "Zeppelin Baumaschinen", "type" => "13 Schaufel 3200mm CAT 966 F", 
+  }
+
+  {
+    "number" => "8005482", "manufacturer" => "Steinweg Greifer Clamp DZ 3 S", "type" => "14 Dachziegelzange", 
+  }
+
+  {
+    "number" => "8005483", "manufacturer" => "CAT", "type" => "15 Ripper CAT D 5", 
+  }
+
+  {
+    "number" => "8005484", "manufacturer" => "CAT", "type" => "16 Reisszahn D 11", 
+  }
+
+  {
+    "number" => "8005486", "manufacturer" => "Mannesmann Demag", "type" => "18 Polypgreifer", 
+  }
+
+  {
+    "number" => "8005487", "manufacturer" => "Zeppelin", "type" => "19 Stammgreifer", 
+  }
+
+  {
+    "number" => "8005496", "manufacturer" => "Thumm", "type" => "28 Tiefloeffel 400 mm", 
+  }
+
+  {
+    "number" => "8005497", "manufacturer" => "LBS Baumaschinen", "type" => "29 Grabenraeumloeffel 2450 mm", 
+  }
+
+  {
+    "number" => "8005500", "manufacturer" => "Schaufel", "type" => "31 / 2500 mm fuer Radlader", 
+  }
+
+  {
+    "number" => "8005501", "manufacturer" => "CAT", "type" => "Felssschaufel 3251 mm neu fuer CAT 966 G", 
+  }
+
+  {
+    "number" => "8005504", "manufacturer" => "Caterpillar", "type" => "35 Hochkippschaufel fuer CAT 980 H", 
+  }
+
+  {
+    "number" => "8005505", "manufacturer" => "CAT", "type" => "36 Reisszahn CAT Radlader", 
+  }
+
+  {
+    "number" => "8005607", "manufacturer" => "Volvo", "type" => "L25F", "first registration" => "29.08.2012", "km - h" => "575", "hours" => "575 h", "unloaden weight" => "4800 kg", "laden weight" => "5200 kg", "engine performance :" => "43 KW / 50 PS KW", 
+  }
+
+  {
+    "number" => "8005817", "manufacturer" => "Hitachi", "type" => "ZX250LCN", "year" => "2006", "engine performance :" => "132 KW 180 PS KW", 
+  }
+
+
+TRUCKS
+  {
+    "number" => "8005759", "manufacturer" => "Mercedes-Benz", "type" => "LKW Plattform 950.20", "year" => "2003", "first registration" => "29.04.2003", "laden weight" => "26000 kg", "engine performance :" => "290/1800 KW", "tires" => "315/70R22,5 154", 
+  }
+
+
+TRACTORS
+  {
+    "number" => "8005010", "manufacturer" => "MAN", "type" => "TGA 41.663 BBS 8x4/4", "first registration" => "21.03.2003", "km - h" => "501000", "kilometer" => "501000 km", "cabin" => "XXL Fernverkehrshaus", "laden weight" => "41000 kg", "Emission" => "EURO III", "tires" => "385/65 R 22,5315/80 R 22,5", "gearbox" => "ZF 12 AS 2740", "retarder" => "WSK 440 mit Retarder", 
+  }
+
+  {
+    "number" => "8005135", "manufacturer" => "Mercedes-Benz", "type" => "2648 LS 6x4", "first registration" => "02.01.2008", "km - h" => "395000", "kilometer" => "395000 km", "wheelbase" => "3100+1350 mm", "cabin" => "Mega Space", "unloaden weight" => "9630 kg", "engine performance :" => "352 / 480 PS KW", "Emission" => "Euro 4", "tires" => "385/65 R 22,5 315/80 R 22,5", "gearbox" => "Telligent MB G-240-16", "retarder" => "Voith R 115 H", 
+  }
+
+  {
+    "number" => "8005203", "manufacturer" => "MAN", "type" => "TGA 41.663 FVDS 8x4/4", "first registration" => "27.05.2004", "km - h" => "430500", "kilometer" => "430500 km", "wheelbase" => "2600+1350+1350 mm", "cabin" => "XXL Fernverkehrshaus", "unloaden weight" => "14620 kg", "laden weight" => "41000 kg", "engine performance :" => "485 / 660 PS KW", "Emission" => "EURO III", "tires" => "385/65 R22,5 315/80 R22,5", "gearbox" => "ZF 12 AS 2750 mit WSK 440", "retarder" => "WSK 440 mit Retarder", 
+  }
+
+  {
+    "number" => "8005264", "manufacturer" => "MAN", "type" => "TGA 41.663 FVDS 8x4/4 BBS", "first registration" => "11.10.2005", "km - h" => "500600", "kilometer" => "500600 km", "wheelbase" => "2600+1450+1400 mm", "cabin" => "XXL", "unloaden weight" => "13500 kg", "laden weight" => "41000 kg", "engine performance :" => "485/ 660 PS KW", "Emission" => "EURO III", "tires" => "385/65 R 22,5315/80 R 22,5", "gearbox" => "12 AS 2740 WSK 440", "retarder" => "WSK 440 mit Retarder", 
+  }
+
+  {
+    "number" => "8005447", "manufacturer" => "Scania", "type" => "R500LA 6x4 Euro5", "first registration" => "13.02.2008", "km - h" => "415000", "kilometer" => "415000 km", "wheelbase" => "3300+1450 mm", "cabin" => "Scania Highli", "unloaden weight" => "10320 kg", "laden weight" => "29000 kg", "engine performance :" => "500/368 KW", "Emission" => "-", "tires" => "385/65R22.5 158G315/80R22.5 145G315/80R22.5 145G", "gearbox" => "GRSO 905 R Opticuise", "retarder" => "Scania Retarder", 
+  }
+
+  {
+    "number" => "8005528", "manufacturer" => "MAN", "type" => "TGX 41.680 BLS 8x4/4", "first registration" => "28.10.2008", "km - h" => "315700", "kilometer" => "315700 km", "wheelbase" => "2600+1440+1420 mm", "cabin" => "XXL Fernverkehrshaus", "unloaden weight" => "14200 kg", "laden weight" => "41000 kg", "engine performance :" => "500/ 680 PS KW", "Emission" => "Euro 5", "tires" => "385/65 R 22,5315/80 R 22,5", "gearbox" => "ZF 12 AS 2740 Transmatic WSK 440", "retarder" => "WSK 440 mit Retarder", 
+  }
+
+  {
+    "number" => "8005737", "manufacturer" => "MERCEDES-BENZ Actros", "type" => "4160 SLT 8x4/4 MP3", "first registration" => "04.03.2010", "km - h" => "203800", "kilometer" => "203800 km", "wheelbase" => "2550+1350+1350 mm", "cabin" => "L Fernverkehrshaus", "unloaden weight" => "14000 kg", "laden weight" => "35000 / 41000 kg", "engine performance :" => "480 KW / 600 PS KW", "Emission" => "Euro 5", "tires" => "385/65 R 22,5315/80 R 22,5", "gearbox" => "G-240-16 mitWSK 400", "retarder" => "WSK 400 mit Retarder", 
+  }
+
+  {
+    "number" => "8005781", "manufacturer" => "MAN", "type" => "TGX 33.540 BLS 6x4", "first registration" => "24.06.2008", "km - h" => "453800", "kilometer" => "453800 km", "wheelbase" => "3200+1350 mm", "cabin" => "XLX Fernverkehrshaus", "laden weight" => "26000 / 33000 kg kg", "engine performance :" => "397 / 540 PS KW", "Emission" => "EURO 5", "tires" => "385/65 R 22,5315/80 R 22,5", "gearbox" => "ZF 16 S 252 IT", "retarder" => "ZF-Intarder", 
+  }
+
+  {
+    "number" => "8005809", "manufacturer" => "MAN", "type" => "TGX 41.560 8x4/4 BLS", "year" => "2016", "first registration" => "neu", "km - h" => "650", "kilometer" => "650 km", "wheelbase" => "2600+1440+1420 mm", "cabin" => "XLX Fernverkehshaus", "laden weight" => "41000 kg", "engine performance :" => "560 PS/ 412 KW KW", "Emission" => "Euro 6", "tires" => "385/65 R 22,5315/80 R 22,5", "gearbox" => "ZF 12 AS 3041 OD WSK 440", "retarder" => "WSK 440 mit Retarder", 
+  }
+
+  {
+    "number" => "8005813", "manufacturer" => "MAN", "type" => "TGX 26.480 6x2/4", "first registration" => "27.02.2012", "km - h" => "422900", "kilometer" => "422900 km", "wheelbase" => "2600+1350 mm", "cabin" => "XLX Fernverkehshaus", "unloaden weight" => "8725 kg", "laden weight" => "26000 kg", "engine performance :" => "480 PS/ 353 KW KW", "Emission" => "EURO 5", "tires" => "385/65 R 22,5315780 R 22,5", "retarder" => "ZF Intrder", 
+  }
+
+  {
+    "number" => "8005816", "manufacturer" => "Mercedes-Benz", "type" => "4160 SLT 8x4/4", "first registration" => "02.10.2008", "km - h" => "311500", "kilometer" => "311500 km", "wheelbase" => "2550+1350+1350 mm", "cabin" => "L-Fernverkehrshaus", "unloaden weight" => "14.000 kg kg", "laden weight" => "35000/41000 kg", "engine performance :" => "441 KW / 600 PS KW", "Emission" => "EURO 5", "tires" => "385/65 R 22,5315/80 R 22,5", "gearbox" => "MB G 240-16 WSK 400", "retarder" => "WSK 400 mit Retarder", 
+  }
+
+
+SPECIAL EQUIPMENT
+  {
+    "number" => "8004642", "manufacturer" => "JLG", "type" => "800 AJ", "year" => "2008", "first registration" => "neuwertig", "km - h" => "180", "hours" => "180 h", 
+  }
+
+  {
+    "number" => "8005463", "manufacturer" => "Valmet Dieselgabelstapler TD 1612 A 1635", "type" => "TD 1612 A 1635", "year" => "1992", "km - h" => "13400", "hours" => "13400 h", "unloaden weight" => "25.000 kg", 
+  }
+
+  {
+    "number" => "8005608", "manufacturer" => "CVS-Ferrari", "type" => "279 Reach Stacker", "first registration" => "1999", "km - h" => "8500", "hours" => "8500 h", "unloaden weight" => "79.500 kg kg", "engine performance :" => "235 KW 320 PS KW", 
+  }
+
+
+LOWLOADERS
+  {
+    "number" => "8004105", "manufacturer" => "Goldhofer", "type" => "THP SL 3", "first registration" => "neu, n.n.zugel.", "unloaden weight" => "10200 kg", "laden weight" => "49.200-102.000 kg", "tires" => "215 / 75 R 17,5", 
+  }
+
+  {
+    "number" => "8004247", "manufacturer" => "Goldhofer", "type" => "STU 3 100/30", "year" => "1995", "unloaden weight" => "25000 kg", "laden weight" => "125000 kg", "tires" => "10,00 R 15", 
+  }
+
+  {
+    "number" => "8004495", "manufacturer" => "Goldhofer", "type" => "THP / SL 2", "first registration" => "neu, n.n.zugel./new", "wheelbase" => "750, 1500 mm", "unloaden weight" => "6900 kg", "laden weight" => "32800-68000 kg", "tires" => "215 / 75 R 17,5", 
+  }
+
+  {
+    "number" => "8004500", "manufacturer" => "Goldhofer", "type" => "THP-SL 5", "first registration" => "neu, n.n.zugel. new / nuevo", "unloaden weight" => "16600 kg", "laden weight" => "82000-170000 kg", "tires" => "215 / 75 R 17,5", 
+  }
+
+  {
+    "number" => "8004573", "manufacturer" => "Nooteboom", "type" => "OSDS-48-03 V", "first registration" => "01.10.2010", "unloaden weight" => "10260 kg", "laden weight" => "48000 kg", "tires" => "245 / 70 R 17,5", 
+  }
+
+  {
+    "number" => "8004588", "manufacturer" => "Nooteboom", "type" => "OSDS-48-03 V", "first registration" => "01.10.2010", "unloaden weight" => "10800 kg", "laden weight" => "48000 kg", "tires" => "245 / 70 R 17,5", 
+  }
+
+  {
+    "number" => "8004734", "manufacturer" => "Goldhofer", "type" => "Baggerbruecke", "first registration" => "neu, n.n.zugel.", 
+  }
+
+  {
+    "number" => "8004992", "manufacturer" => "Goldhofer", "type" => "STZ-VL 3-34/80 A", "first registration" => "10.09.1996", "unloaden weight" => "16490 kg", "laden weight" => "55000 kg", "tires" => "235 / 75 R 17,5", 
+  }
+
+  {
+    "number" => "8005061", "manufacturer" => "Scheuerle", "type" => "EURO COMBI 3 + 4", "first registration" => "1985.", "unloaden weight" => "35000 kg", "laden weight" => "109.000 kg 25 t. SL 12 t. AL137.000 kg 25 t. SL 16 t. AL kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005100", "manufacturer" => "Goldhofer", "type" => "THP SL 6", "first registration" => "neu", 
+  }
+
+  {
+    "number" => "8005101", "manufacturer" => "Goldhofer", "type" => "THP SL 4", "year" => "new", 
+  }
+
+  {
+    "number" => "8005147", "manufacturer" => "Goldhofer", "type" => "SKPH 4 40/80", "first registration" => "24.01.1995", "unloaden weight" => "18180 kg", "laden weight" => "62000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005170", "manufacturer" => "Goldhofer", "type" => "TZ-TL4-28/80", "first registration" => "14.08.1996", "unloaden weight" => "12600 kg", "laden weight" => "40000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005181", "manufacturer" => "Goldhofer", "type" => "STZ-TLS 4 40/80", "first registration" => "09.01.1997", "wheelbase" => "9760+1310+1310+1310 mm", "unloaden weight" => "16800 kg", "laden weight" => "61800 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005189", "manufacturer" => "Nooteboom", "type" => "MCO 48-03", "first registration" => "28.11.1997", "unloaden weight" => "13000 kg", "laden weight" => "48000 kg", 
+  }
+
+  {
+    "number" => "8005190", "manufacturer" => "Goldhofer", "type" => "STZ-L3-35/80AAF1", "first registration" => "19.03.1997", "unloaden weight" => "14100 kg", "laden weight" => "48000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005209", "manufacturer" => "Goldhofer", "type" => "THP-ET-Mulde 3 + 5", "first registration" => "04.09.2000", "wheelbase" => "1500 mm", "unloaden weight" => "ca. 40.000 kg kg", "laden weight" => "120.000 kg bei 12 t. AL 24 t. SL190.000 kg bei 22 t. AL 30 t SL kg", "Emission" => "-", "tires" => "285/70 R19,5", 
+  }
+
+  {
+    "number" => "8005223", "manufacturer" => "Goldhofer", "type" => "THP-ET-Mulde 2+4", "first registration" => "ET 4 WGOTHPE49Y0024453ET 2 WGOSTHP23Y0024457Baggerbett 24453-3003.07.2000", "unloaden weight" => "35000 kg kg", "laden weight" => "95000 kg bei 12 t.AL 23 t SL150000 kg bei 20 t.AL 30 t.SL kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005228", "manufacturer" => "Glogger", "type" => "SLD 30", "first registration" => "24.03.1980", "unloaden weight" => "6600 kg", "laden weight" => "30000 kg", "tires" => "12 R 22,5", 
+  }
+
+  {
+    "number" => "8005313", "manufacturer" => "Goldhofer", "type" => "THP-ST 5", "first registration" => "29.05.1996", "wheelbase" => "1500+1500+1500+1500 mm", "unloaden weight" => "17000 kg", "laden weight" => "60000 kg bei 12 t Achslast180000 kg bei 36 t Achslast kg", "Emission" => "EURO III", "tires" => "215/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005324", "manufacturer" => "Goldhofer", "type" => "STZ-TL2-29/80", "first registration" => "26.05.2005", "unloaden weight" => "10000 kg", "laden weight" => "38750 kg", "tires" => "245/70R17,4144/144F", 
+  }
+
+  {
+    "number" => "8005340", "manufacturer" => "Goldhofer", "type" => "THP-ET Mulde 2+3+4 Baggerbett", "first registration" => "21.01.1991 ET 2 u. ET310.11.1992 ET 4", "unloaden weight" => "39400 kg kg", "laden weight" => "132 t.bei24 t.SL 12 t. AL237t bei 30t SL 23t AL kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005386", "manufacturer" => "Scheuerle", "type" => "PWK 45.5", "first registration" => "28.09.1987", "laden weight" => "55000 kg", "tires" => "9,5 R 17,5", 
+  }
+
+  {
+    "number" => "8005424", "manufacturer" => "Goldhofer", "type" => "STZ-VL 3-37/80 A", "first registration" => "14.09.1993", "unloaden weight" => "17320 kg", "laden weight" => "54000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005456", "manufacturer" => "Scheuerle", "type" => "PU 2539", "year" => "1993", "unloaden weight" => "7200 kg", "laden weight" => "30000 kg", "tires" => "235/75R17.5 141/140J", 
+  }
+
+  {
+    "number" => "8005534", "manufacturer" => "Cometto", "type" => "X44AHC/2530", "first registration" => "09.07.2002", "wheelbase" => "1360 mm", "unloaden weight" => "16000 kg", "laden weight" => "65000- 73000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005549", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 2", "first registration" => "23.04.2002", "wheelbase" => "1500 mm", "unloaden weight" => "6000 kg", "laden weight" => "24000-46000 kg", "tires" => "205/65 R 17,5", 
+  }
+
+  {
+    "number" => "8005561", "manufacturer" => "Scheuerle", "type" => "STGKV 702-3AP", "year" => "05/2000", "laden weight" => "24000 kg", 
+  }
+
+  {
+    "number" => "8005598", "manufacturer" => "Goldhofer", "type" => "STN-L3-36/80", "first registration" => "17.04.1997", "unloaden weight" => "10250 KG kg", "laden weight" => "47500 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005600", "manufacturer" => "Goldhofer", "type" => "STZ-L4-43/80", "first registration" => "13.07.1995", "unloaden weight" => "14300 kg", "laden weight" => "57500 kg", "tires" => "245/70 R 17,5", 
+  }
+
+  {
+    "number" => "8005619", "manufacturer" => "Goldhofer", "type" => "THP-L 4+6 vesselbridge/excavatordeck", "first registration" => "13.09.2004", "unloaden weight" => "49.500 kg kg", "laden weight" => "144 t bei 12 t AL 24 t SL kg", "tires" => "215/", 
+  }
+
+  {
+    "number" => "8005625", "manufacturer" => "Goldhofer", "type" => "THP -LTSO 2", "first registration" => "1998", "wheelbase" => "1500 mm", "unloaden weight" => "6000 kg kg", "laden weight" => "24000 / 46000 kg", "tires" => "205/65 R 17,5", 
+  }
+
+  {
+    "number" => "8005626", "manufacturer" => "Goldhofer", "type" => "THP- LTSO 4", "first registration" => "1998", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "11.400 kg kg", "laden weight" => "48.000-92.000 kg kg", "tires" => "205/65 R 17,5", 
+  }
+
+  {
+    "number" => "8005632", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 4", "first registration" => "10.07.2002", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "11400 kg", "laden weight" => "48000/92000 kg kg", "tires" => "205/65R17,5 127/125J", 
+  }
+
+  {
+    "number" => "8005633", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 4", "first registration" => "10.07.2002", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "11.400 kg kg", "laden weight" => "48000/92000 kg", "tires" => "205/65R17,5", 
+  }
+
+  {
+    "number" => "8005634", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 6", "first registration" => "10.07.2002", "wheelbase" => "1500+1500+1500+1500+1500 mm", "unloaden weight" => "17100 kg", "laden weight" => "72000/138000 kg", "tires" => "206/60R17,5 127/125J", 
+  }
+
+  {
+    "number" => "8005641", "manufacturer" => "Goldhofer", "type" => "THP-ST6 Split", "first registration" => "02.02.2005", "wheelbase" => "1500+1500+1500+15000 mm", "unloaden weight" => "21000 kg", "laden weight" => "72000/216000 kg", "tires" => "215/75R17,5 131/130J", 
+  }
+
+  {
+    "number" => "8005647", "manufacturer" => "Goldhofer", "type" => "THP-ST3", "first registration" => "18.01.2002", "wheelbase" => "1500+1500 mm", "unloaden weight" => "10400 kg", "laden weight" => "36000/108000 kg", "tires" => "215/75R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005648", "manufacturer" => "Goldhofer", "type" => "THP-LTSO3", "first registration" => "07.05.2001", "wheelbase" => "1500+1500 mm", "unloaden weight" => "8500 kg", "laden weight" => "36000/69000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005649", "manufacturer" => "Goldhofer", "type" => "THP-LTSO3", "first registration" => "07.05.2001", "wheelbase" => "1500+1500 mm", "unloaden weight" => "8500 kg", "laden weight" => "36000/69000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005650", "manufacturer" => "Goldhofer", "type" => "THP-ST 4", "first registration" => "12.01.2004", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "13800 kg", "laden weight" => "48000 /144000 kg kg", "tires" => "215/75R17.5-/122J", 
+  }
+
+  {
+    "number" => "8005651", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 3", "first registration" => "16.08.2000", "wheelbase" => "1500+1500 mm", "unloaden weight" => "8500 kg", "laden weight" => "36000/69000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005652", "manufacturer" => "Goldhofer", "type" => "THP- ST 3", "first registration" => "18.01.2002", "wheelbase" => "1500+1500 mm", "unloaden weight" => "10500 kg", "laden weight" => "36000/108000 kg", "tires" => "215/75R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005653", "manufacturer" => "Goldhofer", "type" => "STHP-ST", "first registration" => "1998", "unloaden weight" => "5.500 kg", "laden weight" => "30.000 kg", 
+  }
+
+  {
+    "number" => "8005656", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 2", "first registration" => "07.05.2001", "wheelbase" => "1500 mm", "unloaden weight" => "6000 kg", "laden weight" => "24000/ 46000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005657", "manufacturer" => "Goldhofer", "type" => "THP-LTSO 2", "first registration" => "07.05.2001", "wheelbase" => "1500 mm", "unloaden weight" => "6000 kg", "laden weight" => "24000/46000 kg", "tires" => "205/65R17,5 123/122J", 
+  }
+
+  {
+    "number" => "8005658", "manufacturer" => "Goldhofer", "type" => "THP-ET4+4 8-achsig", "first registration" => "04.05.1993", 
+  }
+
+  {
+    "number" => "8005659", "manufacturer" => "Goldhofer", "type" => "Drehschemel 2_100 to", 
+  }
+
+  {
+    "number" => "8005660", "manufacturer" => "Greiner", "type" => "150 t. Flachbett", "year" => "2008", 
+  }
+
+  {
+    "number" => "8005666", "manufacturer" => "Goldhofer", "type" => "TU 4 expert 4875", "year" => "2015", "wheelbase" => "5.225 mm / 1.310 mm mm", "laden weight" => "48000 kg", "tires" => "Zwillingsbereifung Continental 245/70R 17,5 143/141 J ( 146/146F)", 
+  }
+
+  {
+    "number" => "8005683", "manufacturer" => "Goldhofer", "type" => "STHP-ST", "first registration" => "1998", "unloaden weight" => "5.500 kg", "laden weight" => "30.000 kg", 
+  }
+
+  {
+    "number" => "8005688", "manufacturer" => "Goldhofer", "type" => "THP-ET 4", "first registration" => "27.02.2003", "wheelbase" => "1400+1400+1400 mm", "unloaden weight" => "10.900 kg", "laden weight" => "48000 bei 80 km/h92000 bei 5 km/h kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005689", "manufacturer" => "Goldhofer", "type" => "THP-ET 4", "first registration" => "13.11.1989", "wheelbase" => "1400+1400+1400 mm", "unloaden weight" => "10.900 kg", "laden weight" => "48000 kg bei 80 km/h92000 kg bei 5 km/h kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005691", "manufacturer" => "Goldhofer", "type" => "THP-SL4", 
+  }
+
+  {
+    "number" => "8005692", "manufacturer" => "Goldhofer", "type" => "Zwischentisch THP-L", "first registration" => "2003", 
+  }
+
+  {
+    "number" => "8005693", "manufacturer" => "Goldhofer", "type" => "Adapter THP-ET CC 2400", 
+  }
+
+  {
+    "number" => "8005697", "manufacturer" => "Mu00fcller-Mitteltal", "type" => "T4 RM 40,0", "year" => "2015", "laden weight" => "40000 kg", "tires" => "235/75R17.5 16-fach", 
+  }
+
+  {
+    "number" => "8005698", "manufacturer" => "Mu00fcller-Mitteltal", "type" => "ETUE-TA-R 14,4 (13,5)", "year" => "2015", "laden weight" => "14400 kg", "tires" => "Zwillingsbereifung235/75R17.5 8-fach", 
+  }
+
+  {
+    "number" => "8005704", "manufacturer" => "Goldhofer", "type" => "THP-ET 4+4", "first registration" => "27.02.2003", "wheelbase" => "1400+1400+1400 mm", "unloaden weight" => "10.900 kg", "laden weight" => "48000 bei 80 km/h92000 bei 5 km/h kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005718", "manufacturer" => "Goldhofer", "type" => "THP-UT 3+5 Kesselbett", "first registration" => "05.12.2008", "unloaden weight" => "48.300 kg kg", "laden weight" => "120 t. bei 24 t-SL 12 t- AL230 t. bei 30 t.-SL 25 t. -AL kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005719", "manufacturer" => "Goldhofer", "type" => "THP-UT 2+2+4 Baggerbett", "first registration" => "17.07.2003", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005720", "manufacturer" => "Goldhofer", "type" => "THP-UT 2 3000", "first registration" => "17.07.2003", "wheelbase" => "1500 mm", "unloaden weight" => "6150 kg kg", "laden weight" => "24000 kg bei 80 km/h50000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005722", "manufacturer" => "Goldhofer", "type" => "THP-UT 2 3000", "first registration" => "06.01.2004", "wheelbase" => "1500 mm", "unloaden weight" => "6150 kg", "laden weight" => "24000 kg bei 80 km/h50000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005723", "manufacturer" => "Goldhofer", "type" => "THP-UT 3 3000", "first registration" => "17.07.2003", "wheelbase" => "1500+1500 mm", "unloaden weight" => "8500 kg", "laden weight" => "36000 kg bei 80 km/h75000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005726", "manufacturer" => "Goldhofer", "type" => "THP-UT 4 3000", "first registration" => "17.07.2003", "wheelbase" => "1500+1500+1500 mm", "unloaden weight" => "11.400 kg", "laden weight" => "48000 kg bei 80 km/h100.000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005728", "manufacturer" => "Goldhofer", "type" => "THP-UT 5 3000", "first registration" => "05.12.2008", "wheelbase" => "1500+1500+1500+1500 mm", "unloaden weight" => "14000 kg kg", "laden weight" => "60.000 kg bei 80 km/h125.000 kg bei 10 km/h kg", "tires" => "205/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005730", "manufacturer" => "Goldhofer", "type" => "STHP Universalschwanenhals THP-UT/ST/SL", "first registration" => "17.07.2003", "unloaden weight" => "5500 kg", "laden weight" => "35000 kg", 
+  }
+
+  {
+    "number" => "8005731", "manufacturer" => "Goldhofer", "type" => "STHP-Universalschwanenhals THP-UT/ST/SL", "first registration" => "17.07.2003", "unloaden weight" => "5500 kg", "laden weight" => "35000 kg", 
+  }
+
+  {
+    "number" => "8005733", "manufacturer" => "Goldhofer", "type" => "THP-UT Baggerbruecke 100 t starr", "first registration" => "2004", "unloaden weight" => "7000 kg", "laden weight" => "100.000 kg", 
+  }
+
+  {
+    "number" => "8005738", "manufacturer" => "Goldhofer", "type" => "Kesselbett 100 to THP-UT", "first registration" => "2008", "unloaden weight" => "19900 kg", "laden weight" => "100000 kg kg", 
+  }
+
+  {
+    "number" => "8005744", "manufacturer" => "Doll", "type" => "Doll Vario", "year" => "2005", "first registration" => "22.11.2007", 
+  }
+
+  {
+    "number" => "8005762", "manufacturer" => "Goldhofer", "type" => "STZ-L5-52-80", "first registration" => "04.05.2000", "unloaden weight" => "15700 kg", "laden weight" => "68000 kg", "tires" => "235/75 R17,5 141/14OJ", 
+  }
+
+  {
+    "number" => "8005764", "manufacturer" => "Goldhofer", "type" => "STN-L3-36/80", "first registration" => "09.04.1998", "unloaden weight" => "10250 kg", "laden weight" => "47500 kg", "tires" => "235/75 R 22,5", 
+  }
+
+  {
+    "number" => "8005766", "manufacturer" => "Max Trailer", "type" => "MAX100", "first registration" => "2016", "unloaden weight" => "10664 kg", "laden weight" => "58000 kg", 
+  }
+
+  {
+    "number" => "8005769", "manufacturer" => "Mueller Mitteltal", "type" => "ETUE-TA-R 14,4", "first registration" => "neu", "tires" => "235/75 R 17.5", 
+  }
+
+  {
+    "number" => "8005778", "manufacturer" => "Nooteboom", "type" => "OVB-42-03V", "first registration" => "25.07.2005", "unloaden weight" => "10960 kg", "laden weight" => "42000 kg", "tires" => "385/65R22,5 160/158L", 
+  }
+
+  {
+    "number" => "8005779", "manufacturer" => "Greiner", "type" => "Flachbett 250t + Verlaengerungen", "first registration" => "2006", 
+  }
+
+  {
+    "number" => "8005790", "manufacturer" => "Goldhofer", "type" => "TU 4 expert 4875", "year" => "2016", "first registration" => "neu", 
+  }
+
+  {
+    "number" => "8005791", "manufacturer" => "Goldhofer", "type" => "TU 3 expert 3662", "year" => "2016", "first registration" => "neu", 
+  }
+
+  {
+    "number" => "8005792", "manufacturer" => "Goldhofer", "type" => "STZ-THP-L STVH-7 3+4", "year" => "1991", 
+  }
+
+  {
+    "number" => "8005793", "manufacturer" => "Goldhofer", "type" => "TU3 expert 3662", "year" => "2016", "wheelbase" => "4.940 / 1.310 mm mm", "unloaden weight" => "7600 kg", "laden weight" => "36000 kg", "tires" => "Continental, 245/70 R 17.5 143/141 J TL", 
+  }
+
+  {
+    "number" => "8005794", "manufacturer" => "Goldhofer", "type" => "TU 4 expert 4875", "year" => "2016", "first registration" => "neu", "wheelbase" => "1.310 / 5.225 / 1.310 mm mm", "unloaden weight" => "9100 kg", "laden weight" => "48000 kg", "tires" => "Continental ,245/70 R 17.5 143/141 J TL (146/146 F)", 
+  }
+
+  {
+    "number" => "8005800", "manufacturer" => "Goldhofer", "type" => "THP-SL2", "first registration" => "23.02.2005", "wheelbase" => "1500 mm", "unloaden weight" => "6800 kg", "laden weight" => "24 t. bei 12 t. Achslast72 t. bei 36 t. Achslast kg", "tires" => "215/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005803", "manufacturer" => "Goldhofer", "type" => "STZ L 5 A F2", "first registration" => "2007", "wheelbase" => "1360+1360+1360+1360 mm", "tires" => "245/70 R 17,5", 
+  }
+
+  {
+    "number" => "8005806", "manufacturer" => "Faymonville", "type" => "STN-3AUB", "first registration" => "22.06.2011", "unloaden weight" => "12200 kg", "laden weight" => "48000 kg", "tires" => "235/75R17,5/141J", 
+  }
+
+  {
+    "number" => "8005808", "manufacturer" => "Doll", "type" => "Vario S 3 H", "first registration" => "25.09.2002", "unloaden weight" => "11500 kg", "laden weight" => "48000 kg", "tires" => "235/75 R 17,5", 
+  }
+
+  {
+    "number" => "8005811", "manufacturer" => "Goldhofer", "type" => "TU 4 expert", "first registration" => "11.06.14", "wheelbase" => "1.310 / 5.225 / 1.310 mm mm", "unloaden weight" => "9600 kg", "laden weight" => "40.0000 kg", "tires" => "245/70 R 17,5 R", 
+  }
+
+  {
+    "number" => "8005812", "manufacturer" => "Goldhofer", "type" => "UT LTSO Baggerbett 120 t", 
+  }
+
+  {
+    "number" => "8005814", "manufacturer" => "Goldhofer", "type" => "Tiefbett 250 t", 
+  }
+
+  {
+    "number" => "8005815", "manufacturer" => "Faymonville", "type" => "STBZ 2 V Mega-Z 2 HV", "first registration" => "13.06.2002", "wheelbase" => "1510 mm", "unloaden weight" => "17200 kg", "laden weight" => "49.000 kg", "tires" => "285/70 R 19,5", 
+  }
+
+  {
+    "number" => "8005818", "manufacturer" => "Mu00fcller-Mitteltal", "type" => "T40", "first registration" => "13.07.2004", "wheelbase" => "1440+5120+1440 mm", "unloaden weight" => "8850 kg", "laden weight" => "40.000 kg kg", "tires" => "235/75 R 17,5", 
+  }
+
+
